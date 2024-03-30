@@ -1,8 +1,9 @@
 import { useEffect } from 'react';
-import { Container, Row, Col } from 'react-bootstrap';
-import Sidebar from './components/Sidebar.jsx';
+import { Navbar } from 'react-bootstrap';
+import Logo from './components/Logo.jsx';
 import { Outlet, useLocation, useNavigate } from 'react-router-dom';
-import React, { useState } from 'react';
+import { List } from 'react-bootstrap-icons';
+//import React, { useState } from 'react';
 import './styles/style.css';
 
 const Root = () => {
@@ -12,26 +13,30 @@ const Root = () => {
 		if (pathname === '/') return navigate('/aboutus');
 	}, [pathname, navigate]);
 
-	const [collapsed, setCollapsed] = useState(false);
+	//const [collapsed, setCollapsed] = useState(false);
 
-	const handleToggleSidebar = () => {
-		setCollapsed(!collapsed);
-	};
+	//const handleToggleSidebar = () => {
+		//setCollapsed(!collapsed);
+	//};
 
 	return (
-		<Container fluid>
-			<Row>
+		<>
+            <Navbar className='nav' >
+                <Logo className='logo' />
+                <List className='ms-auto menu' />
+            </Navbar>
+            <Outlet/>
+            {/*<Row>
 				<Col xs={collapsed ? 3 : 1} id='sidebar-wrapper'>
 					<Sidebar
 						collapsed={collapsed}
 						handleToggleSidebar={handleToggleSidebar}
 					/>
 				</Col>
-				<Col xs={9} id='page-content-wrapper'>
-					<Outlet />
-				</Col>
-			</Row>
-		</Container>
+				<Col xs={9} id='page-content-wrapper'>*/}
+                {/*</Col>
+			</Row>*/}
+		</>
 	);
 };
 

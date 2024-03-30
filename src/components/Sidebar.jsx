@@ -1,6 +1,6 @@
 import { Nav } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
-import { CardText, Mortarboard, Palette } from 'react-bootstrap-icons';
+import { CardText, Mortarboard, Palette, ChevronDoubleRight } from 'react-bootstrap-icons';
 
 const Sidebar = (props) => {
 	return (
@@ -13,7 +13,7 @@ const Sidebar = (props) => {
 				}
 			>
 				<div className='sidebar-heading'>
-					<button>test</button>
+					<ChevronDoubleRight color='white' onClick={props.handleToggleSidebar}>test</ChevronDoubleRight >
 				</div>
 				<LinkContainer to='aboutus/'>
 					{/* <Nav.Link>About Us</Nav.Link> */}
@@ -37,9 +37,6 @@ const Sidebar = (props) => {
 						<Nav.Link>Artwork</Nav.Link>
 					)}
 				</LinkContainer>
-				<button onClick={props.handleToggleSidebar}>
-					Toggle Sidebar
-				</button>
 			</Nav>
 		</>
 	);
