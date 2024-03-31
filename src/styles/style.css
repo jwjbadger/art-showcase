@@ -5,7 +5,7 @@ body {
 		'Helvetica Neue', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-    background-color: #F1E2E8 !important;
+	background-color: #f1e2e8 !important;
 }
 
 code {
@@ -14,20 +14,46 @@ code {
 }
 
 .logo {
-    margin-left: 2vw;
-    height: 5vh;
-    width: auto;
+	margin-left: 2vw;
+	height: 5vh;
+	width: auto;
 }
 
 .menu {
-    margin-right: 4vw;
-    height: 3vh;
-    width: auto;
+	margin-right: 4vw;
+	height: 3vh;
+	width: auto;
 }
 
 .nav {
-    height: 12vh;
-    background-color: #F8F1F4;
-    border: none !important;
-    border-width: 0 !important;
+	height: 12vh;
+	background-color: #f8f1f4;
+	border: none !important;
+	border-width: 0 !important;
+}
+
+#BHS-pic-container {
+	height: 40vh;
+	width: 100vw;
+	margin-bottom: 1em;
+}
+
+#BHSPic {
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+}
+
+h1 {
+	position: relative;
+	bottom: 16%;
+	left: 3.5%;
+	color: #f1e2e8 !important;
+	font-size: 3em !important;
+	font-family: 'Google Sans', sans-serif;
+}
+
+p {
+	margin: 1em;
+	font-family: 'Google Sans', sans-serif;
 }
