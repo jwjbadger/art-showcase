@@ -1,8 +1,6 @@
 import { useEffect } from 'react';
-import { Navbar } from 'react-bootstrap';
-import Logo from './components/Logo.jsx';
+import BadNav from './components/Navbar.jsx';
 import { Outlet, useLocation, useNavigate } from 'react-router-dom';
-import { List } from 'react-bootstrap-icons';
 //import React, { useState } from 'react';
 import './styles/style.css';
 
@@ -21,10 +19,7 @@ const Root = () => {
 
 	return (
 		<>
-            <Navbar className='nav' >
-                <Logo className='logo' />
-                <List className='ms-auto menu' />
-            </Navbar>
+            <BadNav/>
             <Outlet/>
             {/*<Row>
 				<Col xs={collapsed ? 3 : 1} id='sidebar-wrapper'>

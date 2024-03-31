@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './styles/style.css';
 import Root from './Root.jsx';
 import Classes from './pages/Classes.jsx';
 import Artwork from './pages/Artwork.jsx';
@@ -8,6 +7,7 @@ import AboutUs from './pages/AboutUs.jsx';
 import ErrorPage from './pages/ErrorPage.jsx';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import './styles/style.css';
 
 const router = createBrowserRouter([
 	{

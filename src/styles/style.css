@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
 body {
 	margin: 0;
 	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
@@ -5,7 +7,7 @@ body {
 		'Helvetica Neue', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	background-color: #f1e2e8 !important;
+	background-color: #fcf8fa !important;
 }
 
 code {
@@ -27,7 +29,7 @@ code {
 
 .nav {
 	height: 12vh;
-	background-color: #f8f1f4;
+	background-color: #fcf8fa;
 	border: none !important;
 	border-width: 0 !important;
 }
@@ -36,6 +38,7 @@ code {
 	height: 40vh;
 	width: 100vw;
 	margin-bottom: 1em;
+    position: relative;
 }
 
 #BHSPic {
@@ -44,16 +47,22 @@ code {
 	object-fit: cover;
 }
 
+#aboutustitle {
+    bottom: 0;
+    left: 0;
+    margin-left: 1.5%;
+    margin-bottom: 1.5%;
+    position: absolute;
+    margin-bottom: 0 !important;
+}
+
 h1 {
-	position: relative;
-	bottom: 16%;
-	left: 3.5%;
-	color: #f1e2e8 !important;
+	color: #fcf8fa !important;
 	font-size: 3em !important;
-	font-family: 'Google Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
 p {
-	margin: 1em;
-	font-family: 'Google Sans', sans-serif;
+	margin: 1.5%;
+	font-family: 'Open Sans', sans-serif;
 }

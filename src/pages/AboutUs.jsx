@@ -7,7 +7,7 @@ const AboutUs = (props) => {
 					alt='Brentwood High School'
 					id='BHSPic'
 				></img>
-				<h1>About Us</h1>
+				<h1 id='aboutustitle'>About Us</h1>
 			</div>
 			<p>
 				The BHS Art Department offers an extensive program for students

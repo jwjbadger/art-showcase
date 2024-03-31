@@ -1,13 +1,18 @@
-import { Nav } from 'react-bootstrap';
+import { Nav, Navbar } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
 import { CardText, Mortarboard, Palette } from 'react-bootstrap-icons';
+import Logo from './Logo.jsx';
+import { List } from 'react-bootstrap-icons';
 
-const Navbar = (props) => {
+const BadNav = (props) => {
 	return (
 		<>
-			<Nav></Nav>
+            <Navbar className='nav' >
+                <Logo className='logo' />
+                <List className='ms-auto menu' />
+            </Navbar>
 		</>
 	);
 };
 
-export default Navbar;
+export default BadNav;
