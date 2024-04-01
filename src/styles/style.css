@@ -38,7 +38,7 @@ code {
 	height: 40vh;
 	width: 100vw;
 	margin-bottom: 1em;
-    position: relative;
+	position: relative;
 }
 
 #BHSPic {
@@ -48,12 +48,17 @@ code {
 }
 
 #aboutustitle {
-    bottom: 0;
-    left: 0;
-    margin-left: 1.5%;
-    margin-bottom: 1.5%;
-    position: absolute;
-    margin-bottom: 0 !important;
+	bottom: 0;
+	left: 0;
+	margin-left: 1.5%;
+	margin-bottom: 1.5%;
+	position: absolute;
+	margin-bottom: 0 !important;
+}
+
+.card-class {
+	margin: 2vh;
+	padding: 5%;
 }
 
 h1 {

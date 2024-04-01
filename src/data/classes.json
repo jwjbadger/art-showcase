@@ -1,0 +1,370 @@
+{
+	"classes": [
+		{
+			"Type": "Class",
+			"Name": "Art 1",
+			"Description": "Art I is an introductory visual arts class designed for the development of a strong creative foundation for all participants. Artists will gain an understanding of the Elements of Art and Principles of Design regardless of background experience. Artists will explore a variety of media and techniques, learn new ways of seeing, and view the work of professional artists, both past and present.",
+			"Project Class": "Art 1"
+		},
+		{
+			"Type": "Class",
+			"Name": "AP Studio",
+			"Description": "It is all about exploration. While the focus will be more on the process than the finished product, each student will submit their very best work to date in their final portfolio. Students will navigate their way through a “Sustained Investigation” of their choosing.  The exam consists of 15 images, some finished and some process-oriented. Students will also be choosing 5 final “best” work images. Students will be writing about their finished works, their journey and their materials. The way these are synthesized together will be how they are graded by the exam “readers”.This is a college level course, and students will receive college credit depending on their scores and schools they attend in the fall.",
+			"Project Class": "AP Studio"
+		},
+		{
+			"Type": "Class",
+			"Name": "Art History",
+			"Description": "AP Art History explores our world's history through the lens of art. Students will learn to question why an artwork came about, in what context it was created, and what sort of impact it may have had on the society surrounding it. Students also learn how to visually analyse artworks to look for possible symbolism and context clues.",
+			"Project Class": "Class"
+		},
+		{
+			"Type": "Class",
+			"Name": "Art II 2D",
+			"Description": "Art II 2D is a visual arts class designed for the development upon an already created, strong creative foundation for all participants. Artists will continue to utilize and explore the Elements of Art and Principles of Design regardless of background experience. Artists will explore a variety of two-dimensional media and techniques, learn new ways of seeing, and view the work of professional artists, both past and present.",
+			"Project Class": "Art II 2D"
+		},
+		{
+			"Type": "Class",
+			"Name": "Art II 3D",
+			"Description": "This class has been designed for art students who want to further their skills in three-dimensional media such as clay, wire, plaster, and found materials. There will also be drawing assignments. Students who elect to take this class should sincerely want to grow as artists. Students will be expected to show a high level of quality, craftsmanship, and complexity in their artwork. There will be a focus on the Elements and Principles of Art, artists and styles from around the world and from throughout history.",
+			"Project Class": "Art II 3D"
+		},
+		{
+			"Type": "Class",
+			"Name": "Art III 2D",
+			"Description": "Art III 2D Honors is a visual arts class designed for the continuation of a strong creative exploration for all participants. Artists will begin developing independent ideas and working towards testing new materials in unique ways. Artists will explore a variety of media and techniques, learn new ways of seeing, and view the work of professional artists, both past and present.",
+			"Project Class": "Art III 2D"
+		},
+		{
+			"Type": "Class",
+			"Name": "Art III 3D",
+			"Description": "Art III 3D is a visual arts class designed for the continuation of a strong creative exploration for all participants. Artists will begin developing independent ideas and working towards testing new materials in unique ways. Artists will explore a variety of sculpture media and techniques, learn new ways of seeing, and view the work of professional artists, both past and present. The majority of work will be created in clay, but we also use wire, paper mache, found objects, leather, fabric, wood, etc.",
+			"Project Class": "Art III 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Acrylic Automobile Painting",
+			"Description": "A painting working on reflections and angles specifically around cars. Students went out and took pictures of cars on campus. They then had to copy that image completely with Acrylic paint.",
+			"Project Class": "Art III 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Picture vs. Camera",
+			"Description": "Students took pictures around BHS campus. They then had to create a drawing that fit perfectly in to that image. Students went back to the same spot and held up their drawing to \"finish\" the image in a new way.",
+			"Project Class": "Art III 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Face Distortion",
+			"Description": "This is a drawing project in pencil. Students had to distort a face in some way.",
+			"Project Class": "Art III 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Mixed Media Collage",
+			"Description": "A personal collage for students. They were given a list of items that they had to include in their collage. Students could arrange these items in any way they wanted. For example: all students had to include a self portrait drawing somewhere on the collage. A variety of materials were used for these.",
+			"Project Class": "Art III 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Surreal Collage",
+			"Description": "Students created a collage by cutting out things from a magazine. The goal was to create an arrangement of items that don't quite make sense, hence surreal.",
+			"Project Class": "Art II 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Reflections Artwork",
+			"Description": "Students had the freedom to choose any material for this assignment. The goal was to create a work that incorporates a reflection somehow. Maybe the sheen of metal, or a mirror, or even a lake sunset.",
+			"Project Class": "Art III 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Shoescape",
+			"Description": "Students had the freedom to choose any materiald for this project. The goal was to create a work that incorporated shoes.",
+			"Project Class": "Art III 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Surreal Handscape",
+			"Description": "Students had to create a work that placed a hand in a landscape/scene that was unnatural. For example: a giant hand holding a tiny elephant.",
+			"Project Class": "Art III 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "T Shirt Printmaking",
+			"Description": "Students carved a design out of a linoleum block. They then stamped that design on a t shirt with special printing ink.",
+			"Project Class": "Art III 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Mini Acrylic Painting",
+			"Description": "Students worked on a small scale piece of paper. They could create anything they wanted with acrylic paint. The challenge was the small scale.",
+			"Project Class": "Art III 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Mini Oil Painting",
+			"Description": "Students worked on a small scale canvas and easel. They could create anything they wanted with oil paint. The challenge was the small scale.",
+			"Project Class": "Art III 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Skeletal Landscapes",
+			"Description": "Focusing on proportion and anatomy, students learned how to draw the skeletal system. Then, they completed a drawing that had to incorporate part of the skeleton in their composition.",
+			"Project Class": "Art II 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Abstract Watercolor",
+			"Description": "Students learned that not everything has to be done realistically. Students completed an abstract watercolor. Focusing on color and shape, rather than making it look like an object or scene. After it dried, they went back in with pen to find recognizable shapes.",
+			"Project Class": "Art II 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Oil Pastel Nature",
+			"Description": "Using oil pastels, students drew a nature scene. They learned how to blend pastels with a blending stump.",
+			"Project Class": "Art II 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Beyond the Border",
+			"Description": "The composition had students draw a rectangle in the middle of their paper. Everything in the rectangle was in color. Everything outside of it was in black and white. However, they had to choose one subject to go \"beyond the border\". This subject remained in color.",
+			"Project Class": "Art II 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Grid Portraits with a Twist",
+			"Description": "Students learned how to grid a paper for accurate proportions. Then, they chose a person or pet to complete a portrait of. Students then had to choose a word or phrase that was associated with their subject. Writing that word over and over was how they shaded the portrait.",
+			"Project Class": "Art II 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Song Lyric Project",
+			"Description": "The project had students choose a song or an album to be inspired by. They were asked to create a work based on this inspiration.",
+			"Project Class": "Art II 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Mini Oil Painting Landscape",
+			"Description": "Every student was given a 3in x 3in canvas and easel. They learned how to use oil paint, and completed a tiny landscape painting.",
+			"Project Class": "Art II 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Animal Eye",
+			"Description": "Students chose from a group of 15 images of animal eyes. They had to recreate this image as close to possible with colored pencils.",
+			"Project Class": "Art II 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Foreshortened/Perspective Painting",
+			"Description": "Students chose from three different perspective types: foreshoretened, bird's eye view, or ant's eye view. They completed an acrylic painting in one of these angles.",
+			"Project Class": "Art II 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Food in Watercolor",
+			"Description": "Using watercolor, food was the inspiration!",
+			"Project Class": "Art II 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Printmaking",
+			"Description": "Students carved a design out of a linoleum block. They then stamped that design three times to create a set of prints.",
+			"Project Class": "Art II 2D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Altered Book Project",
+			"Description": "Students picked from a giant bin of books. They were asked to alter the form of the book in some way. They could carve it, burn it, add to it, etc. It could be based off the story in the book, or totally unrelated.",
+			"Project Class": "Art III 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Clay Architecture",
+			"Description": "Students took inspiration from architectural buildings and created a form from clay.",
+			"Project Class": "Art III 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Clay Monumental Vessel",
+			"Description": "Students had to create a clay vessel that was wither 12in in height or 12in in length. It did not have to be functional. It could be aesthetic as well (has holes punched in it).",
+			"Project Class": "Art III 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Clay Portrait Bust",
+			"Description": "Using clay as their medium, students chose a person or character to recreate in clay. The portriat busts needed to be at least 10in in height. We focused on trying to accurately create the features of the person of choice.",
+			"Project Class": "Art III 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Clay Mug",
+			"Description": "Students made a clay mug that must be able to hold water. They were asked to focus on making a unique mug shape.",
+			"Project Class": "Art III 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Clay Choice or Seed",
+			"Description": "Students had a choice project where they could make anything out of clay or use the given prompt of making a seed pod.",
+			"Project Class": "Art III 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Clay Sphere",
+			"Description": "Students created a 6in in diameter, hollow sphere out of clay. They could cut holes in it, add additions, or make the sphere look like an animal/object.",
+			"Project Class": "Art III 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Paper Mache Animal",
+			"Description": "Using paper mache as their material, students created animals!",
+			"Project Class": "Art III 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Travel Embroidery",
+			"Description": "Every student was given an embroidery hoop and white fabric. They learned how to embroider with several different techniques. Their prompt focused on travel and places. Students could choose a place they have been, have always wanted to go, a form of transportation, or other related travel ideas.",
+			"Project Class": "Art III 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Wood Burning",
+			"Description": "Each student was given a 6in x 6in wooden block. Using a wood burning tool, students burned the wood in to the pattern/design of their choice.",
+			"Project Class": "Art III 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "AP Studio Portfolio",
+			"Description": "Students in AP Studio do not receive prompts. Instead, each student chooses their inquiry (or researchable theme) at the beginning of the year. They are making a portfolio where all of their artworks connect to this inquiry. We hold critiques on each due date - students put their work on display and the class can comment and look at each other's pieces. Their portfolio consists of 15 images of work (11 finished works and 4 sketchbook/in progress pictures). Then they choose their top 5 artworks from this 15 to submit as their Selected Works.",
+			"Project Class": "AP Studio"
+		},
+		{
+			"Type": "Project",
+			"Name": "Clay Vessels",
+			"Description": "This is the introductory project for Art II 3D. Students are challenged to work with clay and make a vessel using several hand building techniques. Students will learn basic slab building and coil making to create these beautiful vessels.",
+			"Project Class": "Art II 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Clay Face Mugs",
+			"Description": "Students build on their previous knowledge of making vessels to create mugs using basic slab building techniques. Students are also encouraged to use creativity to add an expressive face to their mugs.",
+			"Project Class": "Art II 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Clay Functioning Whistles",
+			"Description": "This is usually one of the class favorites! Students are challenged to create a functioning whistle ONLY made from clay. Students learn how to make pinch pots, an inner air chamber and clay mouthpieces to make the components of their whistles. Students then design the outside of their whistles into an animal, object or a decorated abstract form.",
+			"Project Class": "Art II 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Clay Maracas",
+			"Description": "Students create pinch pots, clay beads and handles to make their pair of maracas. Students learn about different cultures around the world that have used maracas. Students then decorate their maracas using these different cultures as inspiration. At the end of this lesson we have a music day! We learn basic rhythms to play each of our maracas!",
+			"Project Class": "Art II 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Texture Paper Sculptures",
+			"Description": "Students are challenged to use ONLY paper and a few adhesive materials to create these beautiful texture designs. Students are required to show a repeated texture or several textures made of paper to cover most of their background surface. Students were encouraged to look to nature for example, a coral reef, to turn two dimentsional paper into a three dimensional work!",
+			"Project Class": "Art II 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Paper Mache Food",
+			"Description": "Students learn how to make a basic form, cover in paper mache and add detailed acrylic painting designs to make a proportional food item, or items. At the end of this project, we have a class \"feast\" to critique and show off the class artwork!",
+			"Project Class": "Art II 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Paper Mache Shoes",
+			"Description": "Students are challenged to make at least one proportional shoe out of paper mache. Students use, cardboard, poster board, masking tape, paper mache and acrylic paint to create these.",
+			"Project Class": "Art II 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Stuffed Animals",
+			"Description": "Students learn basic sewing techniques to create their own designed stuffed animal.",
+			"Project Class": "Art II 3D"
+		},
+		{
+			"Type": "Project",
+			"Name": "Animal Morph",
+			"Description": "This is a drawing project where students had to choose one animal and one inanimate object to morph together. The challenge of this is for students to try to seamlessly draw the two concepts coming together.",
+			"Project Class": "Art 1"
+		},
+		{
+			"Type": "Project",
+			"Name": "Graph Color Project",
+			"Description": "This is an abstract project using colored pencils, geometric and organic shapes. Students use graph paper, rulers, stencils, and colored pencils to create these beautiful and vibrant patterns.",
+			"Project Class": "Art 1"
+		},
+		{
+			"Type": "Project",
+			"Name": "Celebrity Grid Portraits",
+			"Description": "Students choose their favorite celebrity or loved one to create a realistic graphite drawing of them. Students use a grid method to measure and ensure proportions are correct in their final drawings.",
+			"Project Class": "Art 1"
+		},
+		{
+			"Type": "Project",
+			"Name": "Origami",
+			"Description": "Students were taught 4 basic origami shapes to help create their colorful designs. Students were then told to use radial symmetry to arrange their final projects.",
+			"Project Class": "Art 1"
+		},
+		{
+			"Type": "Project",
+			"Name": "Oil Pastel Close Ups",
+			"Description": "Students were told to find an interesting picture of something up close and recreate it using oil pastels. This was a study on texture and colors as students blended many oil pastel colors together to create their desired effect.",
+			"Project Class": "Art 1"
+		},
+		{
+			"Type": "Project",
+			"Name": "Ancestry Watercolor",
+			"Description": "Students took the time to research different elements of their ancestry using their last names. Students were then given the task to create their own family crest from the information they found. Students used pen, watercolor and sharpies to create these detailed family crests.",
+			"Project Class": "Art 1"
+		},
+		{
+			"Type": "Project",
+			"Name": "Mixed Media Collage",
+			"Description": "Students used all materials from the first semester to create a mixed media collage. Students had to choose a main subject or scene to recreate using multiple materials like, newspaper, watercolor, oil pastel, magazines, tissue paper, and other drawing materials.",
+			"Project Class": "Art 1"
+		},
+		{
+			"Type": "Project",
+			"Name": "One Point Perspective Drawings",
+			"Description": "Students learned the technical skill of one point perspective to design and draw their dream interior spaces. Students used pencils and colored pencils to create these accurate perspective drawings.",
+			"Project Class": "Art 1"
+		},
+		{
+			"Type": "Project",
+			"Name": "Clay Mugs",
+			"Description": "Students learned basic slab rolling techniques to create their clay mug designs. Students had the opportunity to design and glaze their mugs however they wanted.",
+			"Project Class": "Art 1"
+		},
+		{
+			"Type": "Project",
+			"Name": "Prehistoric cave painting",
+			"Description": "During our first unit, Prehistoric Art, students learned about cave painting and how people at the time would use their hands to document the world around them. They made similar drawings while the room was turned into a temporary cave, and used thing but their fingers and acrylic paint.",
+			"Project Class": "Art History"
+		},
+		{
+			"Type": "Project",
+			"Name": "Parthenon Field Trip!",
+			"Description": "Students went on a field trip to the Parthenon in downtown Nashville to learn more about Greek art and architecture!",
+			"Project Class": "Art History"
+		},
+		{
+			"Type": "Project",
+			"Name": "Greek Day!",
+			"Description": "We had a party to celebrate Greek Day and learn about the ancient ceremony called the \"Panathenaic Procession\". In ancient times this was when the original statue of Athena in the original Parthenon would get a brand new robe every 4 years, and the city of Athens threw a feast and parade in her honor. We picked our own \"Athena\" gave her a new robe and ate hummus and crackers with grape juice.",
+			"Project Class": "Art History"
+		},
+		{
+			"Type": "Project",
+			"Name": "Greek Era Simon Says",
+			"Description": "The Greek Era has 3 major sections: Archaic, Classical, and Hellenistic; each with their own specific poses. To make sure we remembered the poses we played Greek Simon says. Archaic ment standing strait with a smile, Classical ment standing in Contrapposto, and Hellenistic meant being as dramatic as possible in both stance and facial expression.",
+			"Project Class": "Art History"
+		}
+	]
+}
