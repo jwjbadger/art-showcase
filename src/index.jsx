@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import Root from './Root.jsx';
-import Classes from './pages/Classes.jsx';
+import Classes, { ClassesLoader } from './pages/Classes.jsx';
 import Artwork, { ArtworkLoader } from './pages/Artwork.jsx';
 import AboutUs from './pages/AboutUs.jsx';
 import ErrorPage from './pages/ErrorPage.jsx';
@@ -22,11 +22,12 @@ const router = createBrowserRouter([
 			{
 				path: 'classes/',
 				element: <Classes />,
+				loader: ClassesLoader,
 			},
 			{
 				path: 'artwork/',
 				element: <Artwork />,
-                loader: ArtworkLoader,
+				loader: ArtworkLoader,
 			},
 		],
 	},
