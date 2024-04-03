@@ -35,7 +35,7 @@ const Classes = (props) => {
 						<Card
 							className={`card-class${
 								i === 0 ? ' nomargintop' : ''
-							}`}
+							}${i === classes.length - 1 ?  ' marginbottom' : ''}`}
 						>
 							<Card.Title>{clas.Name}</Card.Title>
 							<Card.Text>{clas.Description}</Card.Text>

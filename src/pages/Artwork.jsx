@@ -7,7 +7,7 @@ const ArtworkLoader = async () => {
 };
 
 const Artwork = (props) => {
-	const artworks = useLoaderData().map((e) => e.URL);
+	const artworks = useLoaderData().map((e) => e.URL + '/400');
 
 	return (
 		<>

@@ -24,10 +24,15 @@ code {
 .card-class {
 	margin: 2vh;
 	margin-bottom: 0;
+    padding: 5%;
 }
 
 .nomargintop {
 	margin-top: 0 !important;
+}
+
+.marginbottom {
+    margin-bottom: 2vh;
 }
 
 .menu {
