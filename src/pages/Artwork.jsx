@@ -14,7 +14,7 @@ const Artwork = (props) => {
 			<div>
 				<Masonry columnsCount={2} gutter={5}>
 					{artworks.map((artwork) => (
-						<img src={artwork} />
+						<img src={artwork} loading='lazy' />
 					))}
 				</Masonry>
 			</div>
