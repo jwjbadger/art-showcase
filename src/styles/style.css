@@ -24,7 +24,37 @@ code {
 .card-class {
 	margin: 2vh;
 	margin-bottom: 0;
-    padding: 5%;
+	padding: 5%;
+}
+
+#masonry {
+	margin-left: 4px !important;
+	margin-right: 4px !important;
+	width: auto !important;
+	max-width: 100% !important;
+	/* height: 100%; */
+	min-height: fit-content;
+	overflow: auto;
+}
+
+#masonry-container {
+	/* height: 100vh; */
+	min-height: fit-content;
+	overflow: auto;
+}
+
+.loading {
+	filter: blur(10px);
+	clip-path: inset(0);
+}
+.loaded {
+	filter: blur(0px);
+	transition: filter 0.5s linear;
+}
+
+.mason-img {
+	height: auto;
+	width: calc(50vw - 6px) !important;
 }
 
 .nomargintop {
@@ -32,7 +62,7 @@ code {
 }
 
 .marginbottom {
-    margin-bottom: 2vh;
+	margin-bottom: 2vh;
 }
 
 .menu {
